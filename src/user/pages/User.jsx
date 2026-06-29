@@ -6,7 +6,7 @@ const Users = () => {
      {
      id:'u1',
      name:'Max Winget',
-     image:'',
+     image:'https://i.pravatar.cc/300?img=12',
      places:3
    }
 ]
