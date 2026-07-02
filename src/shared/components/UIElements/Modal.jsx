@@ -42,7 +42,7 @@ const Modal = (props) => {
   return (
     <>
       {props.show && <BackDrop onClick={props.onCancel} />}
-
+       
       <CSSTransition
         nodeRef={nodeRef}
         in={props.show}
